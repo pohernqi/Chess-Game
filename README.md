@@ -8,3 +8,5 @@ The Plus piece can move horizontally and vertically only but can go any distance
 The Sun piece can move only one step in any direction. The game ends when the Sun is captured by the other side.
 
 After 2 turns (counting one yellow move and one blue move as one turn), all Time pieces will turn into Plus pieces, and all Plus pieces will turn into Time  pieces. (This makes Talabia chess different from other chess games because the pieces will transform like that.)
+
+![image](https://github.com/user-attachments/assets/202ae84d-4b5e-46bf-968b-ba8db23f4300)
