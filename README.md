@@ -1,5 +1,6 @@
 # Chess-Game
 You are to implement a Talabia Chess game as a GUI-based Java Application. You do not have to implement a computer player – it can just be a two human player game.Talabia Chess is played on a 7x6 board.
+
 The Point piece can only move forward, 1 or 2 steps. If it reaches the end of the board, it turns around and starts heading back the other way. It cannot skip over other pieces. 
 The Hourglass piece moves in a 3x2 L shape in any orientation   (kind of like the knight in standard chess.) This is the only piece that can skip over other pieces.
 The Time piece can only move diagonally but can go any distance. It cannot skip over other pieces.
